@@ -36,5 +36,9 @@ Instead, there are a few ways to "trick" the DAW into searching oher folders for
 <a href="https://www.microsoft.com"> 
   <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows%20x64-black?style=for-the-badge&logo=windows&logoColor=white&color=0078D6&labelColor=0078D6"> </a>
 
+<a href="https://juce.com/"> 
+  <img align="left" alt="JUCE Plugin Guide" src="https://img.shields.io/badge/VST%20Plugin%20Guide-black?style=for-the-badge&logo=juce&logoColor=white&color=black&labelColor=black"> </a>
+
+
 -----------------------------------------------------------------------
 
