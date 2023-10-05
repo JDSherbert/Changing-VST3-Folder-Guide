@@ -62,6 +62,7 @@ Next, open File Explorer and navigate to this path: `C:\Program Files\Common Fil
 ![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/7cefb9fd-e0db-459e-8076-f8fb094aa003)
 
 Now, in the Command Prompt, type the following command to create a symbolic link (Junction):
+
 `mklink /J "C:\Program Files\Common Files\VST3" "D:\Your\New\VST3\Path"`
 
 ![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/e13db923-6af8-43be-8896-372955c5e4cb)
