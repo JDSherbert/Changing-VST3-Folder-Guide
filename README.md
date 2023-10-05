@@ -12,7 +12,7 @@
 -----------------------------------------------------------------------
 
 <a href="https://juce.com/"> 
-  <img align="left" alt="JUCE Plugin Guide" src="https://img.shields.io/badge/JUCE%20Plugin%20Guide-black?style=for-the-badge&logo=juce&logoColor=white&color=black&labelColor=black"> </a>
+  <img align="left" alt="JUCE Plugin Guide" src="https://img.shields.io/badge/VST%20Plugin%20Guide-black?style=for-the-badge&logo=juce&logoColor=white&color=black&labelColor=black"> </a>
   
 <br></br>
 
@@ -24,6 +24,12 @@ The recurring message is this:
 
 This would be fine, except I don't like being told "No".
 
+Instead, there are a few ways to "trick" the DAW into searching oher folders for your VST3 plugins. If you're a Reaper user, then cool, you can ignore this as Reaper doesn't care and will blindly search recursively for any VST format. For the rest of us, this little trick should work on FL Studio and Renoise.
+
+-----------------------------------------------------------------------
+
+<a href="https://www.microsoft.com"> 
+  <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows&logoColor=white&color=#0078D6&labelColor=#0078D6"> </a>
 
 -----------------------------------------------------------------------
 
