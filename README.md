@@ -43,3 +43,18 @@ Instead, there are a few ways to "trick" the DAW into searching oher folders for
 
 ### Guide: Changing The Default VST3 Folder On Windows OS
 
+On Windows, you can change the default folder for VST3 Plugins by using Symbolic Links.
+To do so, follow this guide.
+
+Firstly, open up Command Prompt by typing cmd into the search bar.
+
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/d9f03c6b-8452-4dc2-9422-8f2ae7745fd0)
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/36270010-724d-45b0-8f32-6591c80abb1f)
+
+Next, right click Command Prompt and select "Run as Administrator". You'll need to do this as you'll be making changes to the C:\ drive, which is usually the OS drive.
+
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/e104a07b-333d-42cd-a5b8-364b271bda9f)
+
+
+
+
