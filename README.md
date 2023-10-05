@@ -56,6 +56,7 @@ Next, right click Command Prompt and select "Run as Administrator". You'll need 
 ![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/e104a07b-333d-42cd-a5b8-364b271bda9f)
 
 Next, open File Explorer and navigate to this path: `C:\Program Files\Common Files`
+
 **If it doesn't exist yet, or you deleted it when you moved the plugins, you'll need to recreate this path. Make sure to delete the VST3 folder here as we'll be replacing it with a symbolic link! Make sure the new folder you wish to path to exists as well!**
 
 
