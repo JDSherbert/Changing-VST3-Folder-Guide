@@ -1,12 +1,9 @@
-![image]()
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/6b2e5e61-2630-4cc1-9f3f-23185c94ab32)
 
-# Repository Template
+# Guide: Changing The Default VST3 Folder Location
 
 <!-- Header Start -->
-<a href = "https://docs.unrealengine.com/5.3/en-US/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/unrealengine/white"> </a> 
-<a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c"> </a>
-<a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
-<a href = "https://learn.microsoft.com/en-us/dotnet/csharp"> <img height="40" img width="40" src="https://cdn.simpleicons.org/csharp"> </a>
+<a href = "https://juce.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/juce/white"> </a> 
 <img align="right" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/JDSherbert-Repo-Template"/>
 <img align="right" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/JDSherbert-Repo-Template?label=Fork"/>
 <img align="right" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/JDSherbert-Repo-Template"/>
@@ -14,11 +11,8 @@
 
 -----------------------------------------------------------------------
 
-<a href="https://docs.unrealengine.com/5.3/en-US/"> 
-  <img align="left" alt="Unreal Engine Template" src="https://img.shields.io/badge/Unreal%20Engine%20Template-black?style=for-the-badge&logo=unrealengine&logoColor=white&color=black&labelColor=black"> </a>
-  
-<a href="https://choosealicense.com/licenses/unlicense/"> 
-  <img align="right" alt="License" src="https://img.shields.io/badge/License%20:%20Unlicense-black?style=for-the-badge&logo=unlicense&logoColor=white&color=black&labelColor=black"> </a>
+<a href="https://juce.com/"> 
+  <img align="left" alt="JUCE Plugin Guide" src="https://img.shields.io/badge/JUCE%20Plugin%20Guide-black?style=for-the-badge&logo=juce&logoColor=white&color=black&labelColor=black"> </a>
   
 <br></br>
 
