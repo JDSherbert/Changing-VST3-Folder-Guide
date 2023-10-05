@@ -18,7 +18,11 @@
 
 -----------------------------------------------------------------------
 ## Overview
-Some words about the project here-
+If you are a person who uses DAW to compose music often, you may have come across VST3 plugins. VST3 plugins are awesome, but there are a few issues with them.
+The recurring message is this:
+> You can’t change the default VST3 folder. It MUST be placed there. This was set by Steinberg, the licensor of the VST format. This has to do with Steinberg’s own DAWs like Nuendo/Cubase and their internal plugin manager, which uses this system folder for installed VST3 plugins. This also has to do with the VST3 preset standard, which is able to save presets with different categories. All DAWs on the marked which support VST3 are forced to search new VST3 plugins in `C:\Program Files\Common Files\VST3`
+
+This would be fine, except I don't like being told "No".
 
 
 -----------------------------------------------------------------------
