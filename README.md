@@ -51,10 +51,25 @@ Firstly, open up Command Prompt by typing cmd into the search bar.
 ![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/d9f03c6b-8452-4dc2-9422-8f2ae7745fd0)
 ![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/36270010-724d-45b0-8f32-6591c80abb1f)
 
-Next, right click Command Prompt and select "Run as Administrator". You'll need to do this as you'll be making changes to the C:\ drive, which is usually the OS drive.
+Next, right click Command Prompt and select "Run as Administrator". You'll need to do this as you'll be making changes to the C:\ drive, which is usually the OS drive. Windows has special protection and required permissions for this drive.
 
 ![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/e104a07b-333d-42cd-a5b8-364b271bda9f)
 
+Next, open File Explorer and navigate to this path: `C:\Program Files\Common Files`
+**If it doesn't exist yet, or you deleted it when you moved the plugins, you'll need to recreate this path. Make sure to delete the VST3 folder here as we'll be replacing it with a symbolic link! Make sure the new folder you wish to path to exists as well!**
 
 
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/7cefb9fd-e0db-459e-8076-f8fb094aa003)
 
+Now, in the Command Prompt, type the following command to create a symbolic link:
+`mklink /J "C:\Program Files\Common Files\VST3" "D:\Some\New\VST3\Path"`
+
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/e13db923-6af8-43be-8896-372955c5e4cb)
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/8c5d0ac9-1906-4e7b-afbf-a79bff91a3ff)
+
+And that's pretty much it - if you did it correctly, you should get this message!
+Now you should be able to re-scan for plugins in your DAW and it will now pick up your VST3 plugins, without them needing to be in the default folder!
+
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/f40a2084-db75-4b7a-b9ff-16491a7b956f)
+
+If this helped you, give this repository a star and share with others!
