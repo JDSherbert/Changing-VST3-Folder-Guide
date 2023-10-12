@@ -3,7 +3,7 @@
 # Guide: Changing The Default VST3 Folder Location
 
 <!-- Header Start -->
-<a href = "https://juce.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/juce/white"> </a> 
+<a href = "https://juce.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/juce"> </a> 
 <img align="right" alt="Stars Badge" src="https://img.shields.io/github/stars/jdsherbert/Changing-VST3-Folder-Guide?label=%E2%AD%90"/>
 <img align="right" alt="Forks Badge" src="https://img.shields.io/github/forks/jdsherbert/Changing-VST3-Folder-Guide?label=%F0%9F%8D%B4"/>
 <img align="right" alt="Watchers Badge" src="https://img.shields.io/github/watchers/jdsherbert/Changing-VST3-Folder-Guide?label=%F0%9F%91%81%EF%B8%8F"/>
