@@ -4,9 +4,9 @@
 
 <!-- Header Start -->
 <a href = "https://juce.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/juce/white"> </a> 
-<img align="right" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/JDSherbert-Repo-Template"/>
-<img align="right" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/JDSherbert-Repo-Template?label=Fork"/>
-<img align="right" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/JDSherbert-Repo-Template"/>
+<img align="right" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/Changing-VST3-Folder-Guide"/>
+<img align="right" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/Changing-VST3-Folder-Guide=Fork"/>
+<img align="right" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/Changing-VST3-Folder-Guide"/>
 <!-- Header End --> 
 
 -----------------------------------------------------------------------
