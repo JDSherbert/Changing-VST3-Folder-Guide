@@ -5,8 +5,7 @@
 <!-- Header Start -->
 <a href = "https://juce.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/juce/white"> </a> 
 <img align="right" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/Changing-VST3-Folder-Guide"/>
-<img align="right" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/Changing-VST3-Folder-Guide=Fork"/>
-<img align="right" alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/Changing-VST3-Folder-Guide"/>
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2FChanging-VST3-Folder-Guide%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&color=black&labelColor=0E1128&title=hits&style=for-the-badge">
 <!-- Header End --> 
 
 -----------------------------------------------------------------------
