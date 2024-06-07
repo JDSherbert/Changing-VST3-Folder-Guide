@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/6b2e5e61-2630-4cc1-9f3f-23185c94ab32)
+![image](https://github.com/JDSherbert/Changing-VST3-Folder-Guide/assets/43964243/ba9303de-fb12-4efd-935c-a81c1c74926a)
 
 # Guide: Changing The Default VST3 Folder Location
 
