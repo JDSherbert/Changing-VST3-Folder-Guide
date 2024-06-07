@@ -3,20 +3,12 @@
 # Guide: Changing The Default VST3 Folder Location
 
 <!-- Header Start -->
-<a href = "https://juce.com/"> <img height="40" img width="40" src="https://cdn.simpleicons.org/juce"> </a> 
 <img align="right" alt="Stars Badge" src="https://img.shields.io/github/stars/jdsherbert/Changing-VST3-Folder-Guide?label=%E2%AD%90"/>
 <img align="right" alt="Forks Badge" src="https://img.shields.io/github/forks/jdsherbert/Changing-VST3-Folder-Guide?label=%F0%9F%8D%B4"/>
 <img align="right" alt="Watchers Badge" src="https://img.shields.io/github/watchers/jdsherbert/Changing-VST3-Folder-Guide?label=%F0%9F%91%81%EF%B8%8F"/>
 <img align="right" alt="Issues Badge" src="https://img.shields.io/github/issues/jdsherbert/Changing-VST3-Folder-Guide?label=%E2%9A%A0%EF%B8%8F"/>
 <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJDSherbert%2FChanging-VST3-Folder-Guide%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&labelColor=0E1128&title=🔍&style=for-the-badge">
 <!-- Header End --> 
-
------------------------------------------------------------------------
-
-<a href="https://juce.com/"> 
-  <img align="left" alt="JUCE Plugin Guide" src="https://img.shields.io/badge/VST%20Plugin%20Guide-black?style=for-the-badge&logo=juce&logoColor=white&color=black&labelColor=black"> </a>
-  
-<br></br>
 
 -----------------------------------------------------------------------
 ## Overview
@@ -35,9 +27,6 @@ Instead, there are a few ways to "trick" the DAW into searching oher folders for
 
 <a href="https://www.microsoft.com"> 
   <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows%20x64-black?style=for-the-badge&logo=windows&logoColor=white&color=0078D6&labelColor=0078D6"> </a>
-
-<a href="https://juce.com/"> 
-  <img align="left" alt="JUCE Plugin Guide" src="https://img.shields.io/badge/VST%20Plugin%20Guide-black?style=for-the-badge&logo=juce&logoColor=white&color=black&labelColor=black"> </a>
 
 <br></br>
 
